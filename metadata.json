@@ -1,0 +1,7 @@
+{
+  "name": "Smart Classroom and Timetable Scheduler",
+  "description": "A role-based authentication and management system for academic institutions, featuring distinct dashboards for Admins, Faculty, and Students. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
